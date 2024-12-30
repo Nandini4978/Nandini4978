@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nandini4978
 - 👀 I’m interested in Software Development using Java and eager to learn new technologies
 - 🌱 I’m currently studying in 3rd year B.Tech- Computer Engineering
-- 💞️ I’m looking to collaborate on Software projects using Hibernate
+- 💞️ I’m looking to collaborate on Software projects using Spring and Hibernate
 - 📫 How to reach me: Mail- nandinibhvsar31104@gmail.com
 - 😄 Pronouns: she,her
 - ⚡ Fun fact: Having a knack for turning caffeine into code!
