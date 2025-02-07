@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Nandini4978
+- 🚀 Aspiring Software Engineer | Java Enthusiast | Tech Explorer
 - 👀 Passionate about software development with Java and always eager to explore new technologies.
 - 🌱 Currently pursuing B.Tech in Computer Engineering (3rd Year).
 - 💡 Enthusiastic about collaborating on innovative software projects and creating impactful solutions.
