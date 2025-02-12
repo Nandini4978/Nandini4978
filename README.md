@@ -1,23 +1,23 @@
 # Hi there, I'm Nandini Bhavsar 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/your-image-link/banner.jpg)
+![Profile Banner](https://github.com/user-attachments/assets/b78b2a91-3f6c-4406-92cf-4593ad6c4ea0)
 
 Welcome to my GitHub profile! I'm a passionate software developer who loves coding, learning new technologies, and contributing to open-source projects.
 
 ## 📖 About Me
 
-- 👩‍💻 I’m currently working on various web development projects.
-- 🌱 I’m currently learning advanced JavaScript, React, and Node.js.
-- 💬 Ask me about anything related to web development.
-- 📫 How to reach me: [nandini@example.com](mailto:nandini@example.com)
-- ⚡ Fun fact: I love playing chess and solving puzzles.
+- 👩‍💻 Currently Building: Scalable applications using Java & Spring Boot
+- 🌱 Learning: Advanced Spring Boot, Microservices, and System Design
+- 💡 Ask Me About: Java, Spring Boot, Backend Development & APIs
+- ⚡ Fun fact: I love solving puzzles and reading research papers.
+- 📬 Let’s Connect: [nandinibhvsar31104@gmail.com](mailto:nandinibhvsar31104@gmail.com)
 
 ## 🛠 Skills
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, Visual Studio Code
+- **Languages:** Java ☕, C, JavaScript, Python 🐍, HTML, CSS
+- **Frameworks:** Spring Boot 🌱, Hibernate
+- **Databases:** MongoDB 🍃, MySQL 🐬
+- **Tools:** Git ⚙️, Docker 🐳, Visual Studio Code, IntelliJ IDEA 💡, Postman
 
 ## 📊 GitHub Stats
 
@@ -32,12 +32,11 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves codi
 
 ## 🌐 Get in Touch
 
-- LinkedIn: [Nandini's LinkedIn](https://www.linkedin.com/in/nandini4978)
-- Twitter: [@Nandini4978](https://twitter.com/Nandini4978)
+- LinkedIn: [Nandini's LinkedIn](https://www.linkedin.com/in/nandini-bhavsar-93729634b/)
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+✨ Feel free to explore my repositories and connect with me for any questions or collaboration ideas! 🚀💡
 
-Thanks for visiting my profile!
+🙌 Thanks for stopping by! Happy coding!👨‍💻
 <!---
 Nandini4978/Nandini4978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
