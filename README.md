@@ -26,9 +26,10 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves codi
 
 ## 🚀 Projects
 
-- [Project 1](https://github.com/Nandini4978/project1) - Description of project 1.
-- [Project 2](https://github.com/Nandini4978/project2) - Description of project 2.
-- [Project 3](https://github.com/Nandini4978/project3) - Description of project 3.
+- [Taskify](https://github.com/Nandini4978/Taskify.git)
+Taskify is a task management web application built using Java EE, MySQL, Servlets, and JSP, designed to help users efficiently organize and track their tasks. It provides a seamless experience for creating, updating, and managing tasks, enhancing productivity with an intuitive UI.
+
+🔹 Tech Stack: Java EE | Servlets | JSP | MySQL
 
 ## 🌐 Get in Touch
 
