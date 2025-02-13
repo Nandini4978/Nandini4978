@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves codi
 ## 📊 GitHub Stats
 
 ![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandini4978&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini4978)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini4978&layout=compact&theme=radical)
 
 ## 🚀 Projects
 
