@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves codi
 
 ## 🛠 Skills
 
-- **Languages:** Java ☕, C, JavaScript, Python 🐍, HTML, CSS
+- **Languages:** Java ☕, C, Python 🐍, HTML, CSS
 - **Frameworks:** Spring Boot 🌱, Hibernate
 - **Databases:** MongoDB 🍃, MySQL 🐬
 - **Tools:** Git ⚙️, Docker 🐳, Visual Studio Code, IntelliJ IDEA 💡, Postman
