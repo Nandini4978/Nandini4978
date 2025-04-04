@@ -26,13 +26,20 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves codi
 
 ## 🚀 Projects
 
-Taskify - Task Management Web App 📝🚀
+🚀 Taskify - Task Management Web App 📝
 
 -Explore [Taskify](https://github.com/Nandini4978/Taskify.git)
 
 Taskify is a task management web application built using Java EE, MySQL, Servlets, and JSP, designed to help users efficiently organize and track their tasks. It provides a seamless experience for creating, updating, and managing tasks, enhancing productivity with an intuitive UI.
 
  🔹 Tech Stack: Java EE | Servlets | JSP | MySQL
+ 
+🚀 Placement Helper – College Recruitment Management System 🎓🚀
+Explore Placement Helper
+
+Placement Helper is a college recruitment management web application built using Spring Boot, MySQL, Spring Security, and Spring MVC. It streamlines the placement process by allowing students to apply for jobs, companies to post openings, and administrators to manage recruitment efficiently. With a secure authentication system which ensures a seamless placement experience. 
+
+🔹 Tech Stack: Spring Boot | Spring MVC | Spring Security | MySQL
 
 ## 🌐 Get in Touch
 
