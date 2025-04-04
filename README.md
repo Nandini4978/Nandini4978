@@ -1,6 +1,6 @@
 # Hi there, I'm Nandini Bhavsar 👋
 
-![Profile Banner](https://raw.githubusercontent.com/Nandini4978/Nandini4978/main/NAndiniBhavsar.png)
+![Profile Banner](https://github.com/Nandini4978/Nandini4978/blob/main/NAndini%20Bhavsar.png?raw=true)
 
 Welcome to my GitHub profile! I'm a passionate software developer who loves coding, learning new technologies, and contributing to open-source projects.
 
